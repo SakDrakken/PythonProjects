@@ -8,7 +8,7 @@ i = 1
 while True:
     try:
         print "Iteration: ", i
-        r = req.get('https://api.nag-iot.zcu.cz/v2/variables?api_key=wwnI4rWFO1BX521i')
+        r = req.get('https://api.nag-iot.zcu.cz/v2/variables?api_key=API')
         print r.text
         # print r.text.replace("[", "").replace("]", "")
         array = json.loads(r.text.replace("[", "").replace("]", ""))
@@ -19,7 +19,7 @@ while True:
 
         print array["value"]
 
-        s = req.put('https://api.nag-iot.zcu.cz/v2/variable/teplota?api_key=wwnI4rWFO1BX521i', json.dumps(array))
+        s = req.put('https://api.nag-iot.zcu.cz/v2/variable/teplota?api_key=API', json.dumps(array))
         # print json.dumps(array)
         print s.status_code
         time.sleep(100)
