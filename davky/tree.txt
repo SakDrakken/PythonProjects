@@ -1,0 +1,1547 @@
+Folder PATH listing for volume OS
+Volume serial number is 00000200 0618:61D1
+C:\
++---.jagex_cache_32
++---ArcheAge
+|   +---Documents
+|   |   +---Addon
+|   |   +---LogBackups
+|   |   |   \---ArcheAge
+|   |   +---UCC
+|   |   +---udf
+|   |   +---USER
+|   |   |   +---profileshots
+|   |   |   +---shaders
+|   |   |   |   \---cache
+|   |   |   |       \---d3d9
+|   |   |   |           +---cgpshaders
+|   |   |   |           \---cgvshaders
+|   |   |   +---UCC
+|   |   |   |   \---down
+|   |   |   \---udf
+|   |   \---Web
+|   |       \---Font
+|   \---Working
++---ESD
++---FFMPEG
+|   +---bin
+|   +---doc
+|   \---presets
++---Fraps
+|   +---HELP
+|   +---Movies
+|   \---Screenshots
++---Freescale
+|   \---KDS_v3
+|       \---eclipse
+|           +---configuration
+|           |   +---.settings
+|           |   +---org.eclipse.core.runtime
+|           |   |   \---.manager
+|           |   +---org.eclipse.e4.ui.css.swt.theme
+|           |   +---org.eclipse.equinox.app
+|           |   |   \---.manager
+|           |   +---org.eclipse.osgi
+|           |   |   +---.manager
+|           |   |   +---12
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   +---128
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   +---138
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               +---obj16
+|           |   |   |               \---view16
+|           |   |   +---141
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---obj16
+|           |   |   +---150
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---view16
+|           |   |   +---152
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   +---156
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---obj16
+|           |   |   +---159
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               +---dtool16
+|           |   |   |               +---etool16
+|           |   |   |               +---obj16
+|           |   |   |               \---view16
+|           |   |   +---162
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---obj16
+|           |   |   +---164
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---elcl16
+|           |   |   +---166
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           +---dictionaries
+|           |   |   |           \---icons
+|           |   |   |               +---dlcl16
+|           |   |   |               +---dtool16
+|           |   |   |               +---elcl16
+|           |   |   |               +---etool16
+|           |   |   |               +---obj16
+|           |   |   |               \---view16
+|           |   |   +---181
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---os
+|           |   |   |               \---win32
+|           |   |   |                   \---x86
+|           |   |   +---184
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   +---193
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   +---dlcl16
+|           |   |   |                   +---dtool16
+|           |   |   |                   +---elcl16
+|           |   |   |                   +---etool16
+|           |   |   |                   +---obj16
+|           |   |   |                   +---ovr16
+|           |   |   |                   \---wizban
+|           |   |   +---210
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---etool16
+|           |   |   +---211
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---ovr16
+|           |   |   +---225
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---obj16
+|           |   |   +---23
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   +---230
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---lib
+|           |   |   +---233
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   +---239
+|           |   |   |   \---data
+|           |   |   +---259
+|           |   |   |   \---data
+|           |   |   |       \----868630647
+|           |   |   +---268
+|           |   |   |   \---data
+|           |   |   |       \---listener_1925729951
+|           |   |   +---276
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   +---277
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---obj
+|           |   |   +---280
+|           |   |   |   \---data
+|           |   |   |       +----756472209
+|           |   |   |       \---1921063724
+|           |   |   +---299
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           +---icons
+|           |   |   |           |   \---full
+|           |   |   |           \---org
+|           |   |   |               \---eclipse
+|           |   |   |                   \---jface
+|           |   |   |                       +---action
+|           |   |   |                       |   \---images
+|           |   |   |                       +---fieldassist
+|           |   |   |                       |   \---images
+|           |   |   |                       \---wizard
+|           |   |   |                           \---images
+|           |   |   +---3
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   +---301
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---org
+|           |   |   |               \---eclipse
+|           |   |   |                   \---jface
+|           |   |   |                       \---text
+|           |   |   |                           \---source
+|           |   |   |                               \---projection
+|           |   |   |                                   \---images
+|           |   |   +---342
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   +---352
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               +---dlcl16
+|           |   |   |               +---elcl16
+|           |   |   |               +---etool16
+|           |   |   |               +---eview16
+|           |   |   |               +---obj16
+|           |   |   |               +---ovr16
+|           |   |   |               \---wizban
+|           |   |   +---365
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---obj16
+|           |   |   +---368
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---eview16
+|           |   |   +---378
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---etool16
+|           |   |   +---383
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---elcl16
+|           |   |   +---387
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---elcl16
+|           |   |   +---390
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---elcl16
+|           |   |   +---391
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---etool16
+|           |   |   +---396
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               +---etool16
+|           |   |   |               \---eview16
+|           |   |   +---466
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---etool16
+|           |   |   +---468
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   +---476
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   +---dlcl16
+|           |   |   |                   +---dtool16
+|           |   |   |                   +---elcl16
+|           |   |   |                   +---etool16
+|           |   |   |                   +---eview16
+|           |   |   |                   +---obj16
+|           |   |   |                   +---progress
+|           |   |   |                   \---wizban
+|           |   |   +---479
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   +---clcl16
+|           |   |   |                   +---cview16
+|           |   |   |                   +---dlcl16
+|           |   |   |                   \---elcl16
+|           |   |   +---480
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   +---dtool16
+|           |   |   |                   +---etool16
+|           |   |   |                   \---obj16
+|           |   |   +---481
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---obj16
+|           |   |   +---483
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   +---dtool16
+|           |   |   |                   +---elcl16
+|           |   |   |                   +---etool16
+|           |   |   |                   +---eview16
+|           |   |   |                   +---obj16
+|           |   |   |                   \---wizban
+|           |   |   +---485
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   +---dlcl16
+|           |   |   |                   \---elcl16
+|           |   |   +---487
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---elcl16
+|           |   |   +---488
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---eview16
+|           |   |   +---492
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   \---eview16
+|           |   |   +---497
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---full
+|           |   |   |                   +---dtool16
+|           |   |   |                   \---etool16
+|           |   |   +---56
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   +---60
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   +---76
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   +---81
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---obj16
+|           |   |   +---82
+|           |   |   |   \---0
+|           |   |   |       \---.cp
+|           |   |   |           \---icons
+|           |   |   |               \---obj16
+|           |   |   \---83
+|           |   |       \---0
+|           |   |           \---.cp
+|           |   |               \---icons
+|           |   |                   +---dlcl16
+|           |   |                   \---elcl16
+|           |   \---org.eclipse.update
+|           |       \---history
+|           \---p2
+|               +---org.eclipse.equinox.p2.core
+|               |   \---cache
+|               \---org.eclipse.equinox.p2.engine
+|                   \---profileRegistry
+|                       \---DefaultProfile.profile
+|                           \---.data
+|                               \---.settings
++---Games
+|   +---Diablo 2 with Lord of Destruction (v1.13c) (Direct Play)
+|   |   \---Diablo II
+|   |       +---save
+|   |       \---support
+|   |           +---bnet
+|   |           |   +---errors
+|   |           |   \---general
+|   |           +---d2
+|   |           +---images
+|   |           |   +---arrows
+|   |           |   +---char
+|   |           |   +---msproxy
+|   |           |   +---wingate
+|   |           |   \---winproxy
+|   |           \---include
+|   +---Hearts of Iron IV
+|   |   +---browser
+|   |   +---cef
+|   |   |   +---linux
+|   |   |   |   \---locales
+|   |   |   \---win32
+|   |   |       \---locales
+|   |   +---common
+|   |   |   +---aces
+|   |   |   +---ai_areas
+|   |   |   +---ai_focuses
+|   |   |   +---ai_peace
+|   |   |   +---ai_strategy
+|   |   |   +---ai_templates
+|   |   |   +---autonomous_states
+|   |   |   +---bookmarks
+|   |   |   +---buildings
+|   |   |   +---continuous_focus
+|   |   |   +---countries
+|   |   |   +---country_leader
+|   |   |   +---country_tags
+|   |   |   +---defines
+|   |   |   +---difficulty_settings
+|   |   |   +---ideas
+|   |   |   +---idea_tags
+|   |   |   +---ideologies
+|   |   |   +---names
+|   |   |   +---national_focus
+|   |   |   +---on_actions
+|   |   |   +---opinion_modifiers
+|   |   |   +---portraits
+|   |   |   +---resources
+|   |   |   +---scripted_effects
+|   |   |   +---scripted_triggers
+|   |   |   +---state_category
+|   |   |   +---technologies
+|   |   |   +---technology_sharing
+|   |   |   +---technology_tags
+|   |   |   +---terrain
+|   |   |   +---timed_activities
+|   |   |   +---units
+|   |   |   |   +---equipment
+|   |   |   |   |   \---upgrades
+|   |   |   |   \---names
+|   |   |   +---unit_leader
+|   |   |   +---unit_tags
+|   |   |   \---wargoals
+|   |   +---decisions
+|   |   +---dlc
+|   |   |   +---dlc001_german_historical_portraits
+|   |   |   +---dlc002_polish_content_pack
+|   |   |   +---dlc003_rocket_launcher_unit_pack
+|   |   |   +---dlc005_heavy_cruisers_unit_pack
+|   |   |   +---dlc006_soviet_tanks_unit_pack
+|   |   |   +---dlc007_german_tanks_unit_pack
+|   |   |   +---dlc008_french_tanks_unit_pack
+|   |   |   +---dlc009_british_tanks_unit_pack
+|   |   |   +---dlc010_us_tanks_unit_pack
+|   |   |   +---dlc011_german_march_order_music_pack
+|   |   |   +---dlc012_allied_radio_music_pack
+|   |   |   +---dlc013_sabaton
+|   |   |   +---dlc014_wallpaper
+|   |   |   +---dlc016_artbook
+|   |   |   +---dlc018_together_for_victory
+|   |   |   +---dlc020_death_or_dishonor
+|   |   |   \---dlc021_anniversary_pack
+|   |   +---events
+|   |   +---gfx
+|   |   |   +---aces
+|   |   |   +---achievements
+|   |   |   +---cursors
+|   |   |   +---entities
+|   |   |   +---event_pictures
+|   |   |   +---flags
+|   |   |   |   +---medium
+|   |   |   |   \---small
+|   |   |   +---fonts
+|   |   |   +---FX
+|   |   |   +---interface
+|   |   |   |   +---airview
+|   |   |   |   +---alerts
+|   |   |   |   +---autonomy
+|   |   |   |   +---buildings
+|   |   |   |   +---counters
+|   |   |   |   |   +---air_small
+|   |   |   |   |   +---divisions_large
+|   |   |   |   |   +---divisions_small
+|   |   |   |   |   +---division_templates_large
+|   |   |   |   |   +---division_templates_small
+|   |   |   |   |   \---ships_small
+|   |   |   |   +---focusview
+|   |   |   |   +---goals
+|   |   |   |   +---ideas
+|   |   |   |   +---ideologies
+|   |   |   |   +---landcombat
+|   |   |   |   |   \---tactics
+|   |   |   |   +---navalcombat
+|   |   |   |   |   +---airwings
+|   |   |   |   |   \---ships
+|   |   |   |   +---naviesview
+|   |   |   |   +---relations
+|   |   |   |   +---strategicair
+|   |   |   |   +---technologies
+|   |   |   |   +---technology_sharing
+|   |   |   |   +---terrains
+|   |   |   |   +---topbar
+|   |   |   |   +---tradeview
+|   |   |   |   +---tutorial
+|   |   |   |   |   \---hints
+|   |   |   |   \---unitcontrol
+|   |   |   +---keyicons
+|   |   |   +---leaders
+|   |   |   |   +---AFG
+|   |   |   |   +---Africa
+|   |   |   |   +---ALB
+|   |   |   |   +---ARG
+|   |   |   |   +---Asia
+|   |   |   |   +---AST
+|   |   |   |   +---AUS
+|   |   |   |   +---BEL
+|   |   |   |   +---BOL
+|   |   |   |   +---BRA
+|   |   |   |   +---BUL
+|   |   |   |   +---CAN
+|   |   |   |   +---CHI
+|   |   |   |   +---CRO
+|   |   |   |   +---CZE
+|   |   |   |   +---DEN
+|   |   |   |   +---EGY
+|   |   |   |   +---ENG
+|   |   |   |   +---ETH
+|   |   |   |   +---Europe
+|   |   |   |   +---FIN
+|   |   |   |   +---FRA
+|   |   |   |   +---GER
+|   |   |   |   +---GRE
+|   |   |   |   +---GXC
+|   |   |   |   +---HOL
+|   |   |   |   +---HUN
+|   |   |   |   +---IRE
+|   |   |   |   +---ISR
+|   |   |   |   +---ITA
+|   |   |   |   +---JAP
+|   |   |   |   +---JOR
+|   |   |   |   +---LBA
+|   |   |   |   +---LEB
+|   |   |   |   +---MAN
+|   |   |   |   +---MEX
+|   |   |   |   +---NOR
+|   |   |   |   +---NZL
+|   |   |   |   +---PAL
+|   |   |   |   +---PER
+|   |   |   |   +---PHI
+|   |   |   |   +---POL
+|   |   |   |   +---POR
+|   |   |   |   +---RAJ
+|   |   |   |   +---ROM
+|   |   |   |   +---SAF
+|   |   |   |   +---SAU
+|   |   |   |   +---SIA
+|   |   |   |   +---SIK
+|   |   |   |   +---SLO
+|   |   |   |   +---South America
+|   |   |   |   +---SOV
+|   |   |   |   +---SPA
+|   |   |   |   +---SPR
+|   |   |   |   +---SWE
+|   |   |   |   +---SWI
+|   |   |   |   +---SYR
+|   |   |   |   +---TIB
+|   |   |   |   +---TUR
+|   |   |   |   +---USA
+|   |   |   |   +---VEN
+|   |   |   |   \---YUG
+|   |   |   +---loadingscreens
+|   |   |   +---maparrows
+|   |   |   +---mapitems
+|   |   |   +---models
+|   |   |   |   +---anim_blend_test
+|   |   |   |   +---buildings
+|   |   |   |   |   \---Western
+|   |   |   |   +---mapitems
+|   |   |   |   |   \---trees
+|   |   |   |   |       \---junk
+|   |   |   |   \---units
+|   |   |   |       +---planes
+|   |   |   |       +---ships
+|   |   |   |       +---tanks
+|   |   |   |       \---vehicles
+|   |   |   +---particles
+|   |   |   |   +---environment
+|   |   |   |   +---infantry
+|   |   |   |   \---vehicles
+|   |   |   +---texticons
+|   |   |   \---world
+|   |   +---history
+|   |   |   +---countries
+|   |   |   +---diplomacy
+|   |   |   +---states
+|   |   |   +---units
+|   |   |   \---wars
+|   |   +---interface
+|   |   +---locales
+|   |   +---localisation
+|   |   +---map
+|   |   |   +---strategicregions
+|   |   |   +---supplyareas
+|   |   |   \---terrain
+|   |   +---music
+|   |   +---old crack
+|   |   +---pdx_launcher
+|   |   |   +---common
+|   |   |   |   +---gfx
+|   |   |   |   |   +---fonts
+|   |   |   |   |   +---FX
+|   |   |   |   |   \---interface
+|   |   |   |   |       +---buttons
+|   |   |   |   |       \---sliders
+|   |   |   |   +---interface
+|   |   |   |   \---localisation
+|   |   |   \---game
+|   |   |       +---gfx
+|   |   |       |   +---fonts
+|   |   |       |   \---interface
+|   |   |       +---interface
+|   |   |       +---music
+|   |   |       \---sound
+|   |   +---pdx_online_assets
+|   |   |   +---gfx
+|   |   |   |   +---fonts
+|   |   |   |   +---FX
+|   |   |   |   \---interface
+|   |   |   \---interface
+|   |   +---playlists
+|   |   +---portraits
+|   |   +---previewer_assets
+|   |   |   +---assetviewer_interface
+|   |   |   +---gfx
+|   |   |   |   +---cursors
+|   |   |   |   +---fonts
+|   |   |   |   +---interface
+|   |   |   |   \---pdx_gui
+|   |   |   \---interface
+|   |   +---script
+|   |   +---sound
+|   |   |   +---animations
+|   |   |   +---gui
+|   |   |   +---menu
+|   |   |   +---placeholders
+|   |   |   \---weather
+|   |   +---soundtrack
+|   |   |   +---dlc011_german_march_order_music_pack
+|   |   |   \---dlc012_allied_radio_music_pack
+|   |   +---tests
+|   |   +---tutorial
+|   |   +---tweakergui_assets
+|   |   |   +---gfx
+|   |   |   |   +---fonts
+|   |   |   |   +---FX
+|   |   |   |   \---interface
+|   |   |   \---interface
+|   |   +---wiki
+|   |   |   +---images
+|   |   |   |   +---0
+|   |   |   |   |   +---01
+|   |   |   |   |   +---02
+|   |   |   |   |   +---03
+|   |   |   |   |   +---04
+|   |   |   |   |   +---05
+|   |   |   |   |   +---06
+|   |   |   |   |   +---07
+|   |   |   |   |   +---08
+|   |   |   |   |   +---09
+|   |   |   |   |   +---0a
+|   |   |   |   |   +---0b
+|   |   |   |   |   +---0c
+|   |   |   |   |   +---0d
+|   |   |   |   |   +---0e
+|   |   |   |   |   \---0f
+|   |   |   |   +---1
+|   |   |   |   |   +---10
+|   |   |   |   |   +---12
+|   |   |   |   |   +---14
+|   |   |   |   |   +---15
+|   |   |   |   |   +---16
+|   |   |   |   |   +---17
+|   |   |   |   |   +---18
+|   |   |   |   |   +---1a
+|   |   |   |   |   +---1c
+|   |   |   |   |   +---1d
+|   |   |   |   |   +---1e
+|   |   |   |   |   \---1f
+|   |   |   |   +---2
+|   |   |   |   |   +---22
+|   |   |   |   |   +---24
+|   |   |   |   |   +---25
+|   |   |   |   |   +---27
+|   |   |   |   |   +---28
+|   |   |   |   |   +---29
+|   |   |   |   |   +---2a
+|   |   |   |   |   +---2c
+|   |   |   |   |   +---2d
+|   |   |   |   |   \---2f
+|   |   |   |   +---3
+|   |   |   |   |   +---31
+|   |   |   |   |   +---32
+|   |   |   |   |   +---33
+|   |   |   |   |   +---34
+|   |   |   |   |   +---36
+|   |   |   |   |   +---37
+|   |   |   |   |   +---38
+|   |   |   |   |   +---39
+|   |   |   |   |   +---3a
+|   |   |   |   |   +---3b
+|   |   |   |   |   +---3c
+|   |   |   |   |   +---3d
+|   |   |   |   |   +---3e
+|   |   |   |   |   \---3f
+|   |   |   |   +---4
+|   |   |   |   |   +---40
+|   |   |   |   |   +---41
+|   |   |   |   |   +---42
+|   |   |   |   |   +---43
+|   |   |   |   |   +---45
+|   |   |   |   |   +---49
+|   |   |   |   |   +---4b
+|   |   |   |   |   +---4c
+|   |   |   |   |   \---4f
+|   |   |   |   +---5
+|   |   |   |   |   +---52
+|   |   |   |   |   +---53
+|   |   |   |   |   +---54
+|   |   |   |   |   +---55
+|   |   |   |   |   +---56
+|   |   |   |   |   +---57
+|   |   |   |   |   +---58
+|   |   |   |   |   +---59
+|   |   |   |   |   +---5a
+|   |   |   |   |   +---5b
+|   |   |   |   |   +---5c
+|   |   |   |   |   \---5d
+|   |   |   |   +---6
+|   |   |   |   |   +---62
+|   |   |   |   |   +---63
+|   |   |   |   |   +---66
+|   |   |   |   |   +---67
+|   |   |   |   |   +---69
+|   |   |   |   |   +---6a
+|   |   |   |   |   +---6c
+|   |   |   |   |   +---6e
+|   |   |   |   |   \---6f
+|   |   |   |   +---7
+|   |   |   |   |   +---73
+|   |   |   |   |   +---74
+|   |   |   |   |   +---77
+|   |   |   |   |   +---7b
+|   |   |   |   |   +---7c
+|   |   |   |   |   +---7d
+|   |   |   |   |   +---7e
+|   |   |   |   |   \---7f
+|   |   |   |   +---8
+|   |   |   |   |   +---80
+|   |   |   |   |   +---81
+|   |   |   |   |   +---83
+|   |   |   |   |   +---84
+|   |   |   |   |   +---85
+|   |   |   |   |   +---86
+|   |   |   |   |   +---89
+|   |   |   |   |   +---8a
+|   |   |   |   |   +---8c
+|   |   |   |   |   +---8e
+|   |   |   |   |   \---8f
+|   |   |   |   +---9
+|   |   |   |   |   +---90
+|   |   |   |   |   +---91
+|   |   |   |   |   +---94
+|   |   |   |   |   +---95
+|   |   |   |   |   +---96
+|   |   |   |   |   +---97
+|   |   |   |   |   +---98
+|   |   |   |   |   +---99
+|   |   |   |   |   +---9a
+|   |   |   |   |   +---9b
+|   |   |   |   |   +---9c
+|   |   |   |   |   +---9d
+|   |   |   |   |   +---9e
+|   |   |   |   |   \---9f
+|   |   |   |   +---a
+|   |   |   |   |   +---a0
+|   |   |   |   |   +---a1
+|   |   |   |   |   +---a2
+|   |   |   |   |   +---a3
+|   |   |   |   |   +---a4
+|   |   |   |   |   +---a6
+|   |   |   |   |   +---a7
+|   |   |   |   |   +---a8
+|   |   |   |   |   +---a9
+|   |   |   |   |   +---ac
+|   |   |   |   |   +---ad
+|   |   |   |   |   \---ae
+|   |   |   |   +---archive
+|   |   |   |   |   +---0
+|   |   |   |   |   |   \---0f
+|   |   |   |   |   +---2
+|   |   |   |   |   |   +---24
+|   |   |   |   |   |   +---29
+|   |   |   |   |   |   \---2f
+|   |   |   |   |   +---3
+|   |   |   |   |   |   +---32
+|   |   |   |   |   |   +---39
+|   |   |   |   |   |   +---3b
+|   |   |   |   |   |   \---3f
+|   |   |   |   |   +---4
+|   |   |   |   |   |   +---43
+|   |   |   |   |   |   +---45
+|   |   |   |   |   |   \---4b
+|   |   |   |   |   +---5
+|   |   |   |   |   |   +---54
+|   |   |   |   |   |   +---57
+|   |   |   |   |   |   +---5b
+|   |   |   |   |   |   \---5c
+|   |   |   |   |   +---6
+|   |   |   |   |   |   +---67
+|   |   |   |   |   |   +---69
+|   |   |   |   |   |   +---6c
+|   |   |   |   |   |   \---6f
+|   |   |   |   |   +---7
+|   |   |   |   |   |   +---7c
+|   |   |   |   |   |   +---7e
+|   |   |   |   |   |   \---7f
+|   |   |   |   |   +---8
+|   |   |   |   |   |   +---80
+|   |   |   |   |   |   \---81
+|   |   |   |   |   +---9
+|   |   |   |   |   |   +---98
+|   |   |   |   |   |   +---99
+|   |   |   |   |   |   +---9b
+|   |   |   |   |   |   +---9d
+|   |   |   |   |   |   \---9f
+|   |   |   |   |   +---a
+|   |   |   |   |   |   +---a1
+|   |   |   |   |   |   +---a2
+|   |   |   |   |   |   \---a3
+|   |   |   |   |   +---b
+|   |   |   |   |   |   \---b3
+|   |   |   |   |   +---c
+|   |   |   |   |   |   +---c0
+|   |   |   |   |   |   \---c4
+|   |   |   |   |   +---d
+|   |   |   |   |   |   +---d8
+|   |   |   |   |   |   +---d9
+|   |   |   |   |   |   \---da
+|   |   |   |   |   \---f
+|   |   |   |   |       +---f3
+|   |   |   |   |       +---f4
+|   |   |   |   |       \---fa
+|   |   |   |   +---b
+|   |   |   |   |   +---b1
+|   |   |   |   |   +---b2
+|   |   |   |   |   +---b3
+|   |   |   |   |   +---b4
+|   |   |   |   |   +---b5
+|   |   |   |   |   +---b6
+|   |   |   |   |   +---b8
+|   |   |   |   |   +---b9
+|   |   |   |   |   +---ba
+|   |   |   |   |   +---bc
+|   |   |   |   |   \---bf
+|   |   |   |   +---c
+|   |   |   |   |   +---c0
+|   |   |   |   |   +---c1
+|   |   |   |   |   +---c4
+|   |   |   |   |   +---c5
+|   |   |   |   |   +---c6
+|   |   |   |   |   +---c9
+|   |   |   |   |   +---ca
+|   |   |   |   |   \---cf
+|   |   |   |   +---d
+|   |   |   |   |   +---d0
+|   |   |   |   |   +---d1
+|   |   |   |   |   +---d4
+|   |   |   |   |   +---d6
+|   |   |   |   |   +---d7
+|   |   |   |   |   +---d8
+|   |   |   |   |   +---d9
+|   |   |   |   |   +---da
+|   |   |   |   |   +---db
+|   |   |   |   |   +---dd
+|   |   |   |   |   +---de
+|   |   |   |   |   \---df
+|   |   |   |   +---e
+|   |   |   |   |   +---e0
+|   |   |   |   |   +---e1
+|   |   |   |   |   +---e2
+|   |   |   |   |   +---e3
+|   |   |   |   |   +---e4
+|   |   |   |   |   +---e5
+|   |   |   |   |   +---e7
+|   |   |   |   |   +---e8
+|   |   |   |   |   +---e9
+|   |   |   |   |   +---ea
+|   |   |   |   |   +---eb
+|   |   |   |   |   +---ec
+|   |   |   |   |   +---ee
+|   |   |   |   |   \---ef
+|   |   |   |   +---f
+|   |   |   |   |   +---f0
+|   |   |   |   |   +---f1
+|   |   |   |   |   +---f2
+|   |   |   |   |   +---f3
+|   |   |   |   |   +---f4
+|   |   |   |   |   +---f6
+|   |   |   |   |   +---f9
+|   |   |   |   |   +---fa
+|   |   |   |   |   +---fb
+|   |   |   |   |   +---fc
+|   |   |   |   |   +---fd
+|   |   |   |   |   +---fe
+|   |   |   |   |   \---ff
+|   |   |   |   \---thumb
+|   |   |   |       +---0
+|   |   |   |       |   +---01
+|   |   |   |       |   |   +---APP-6_Mechanized.png
+|   |   |   |       |   |   +---Limited_conscription.png
+|   |   |   |       |   |   \---Switzerland.png
+|   |   |   |       |   +---03
+|   |   |   |       |   |   \---Tibet.png
+|   |   |   |       |   +---04
+|   |   |   |       |   |   \---Signal_company.png
+|   |   |   |       |   +---05
+|   |   |   |       |   |   \---Liberia.png
+|   |   |   |       |   +---06
+|   |   |   |       |   |   +---Ethiopia.png
+|   |   |   |       |   |   \---Oil.png
+|   |   |   |       |   +---07
+|   |   |   |       |   |   \---Albania.png
+|   |   |   |       |   +---09
+|   |   |   |       |   |   \---Honduras.png
+|   |   |   |       |   +---0a
+|   |   |   |       |   |   +---Kw9sU47.jpg
+|   |   |   |       |   |   \---Mexico.png
+|   |   |   |       |   +---0b
+|   |   |   |       |   |   \---Ideas.png
+|   |   |   |       |   +---0c
+|   |   |   |       |   |   \---Manpower.png
+|   |   |   |       |   +---0e
+|   |   |   |       |   |   \---Trade_Chromoium.jpg
+|   |   |   |       |   \---0f
+|   |   |   |       |       +---Norway.png
+|   |   |   |       |       \---Syria.png
+|   |   |   |       +---1
+|   |   |   |       |   +---10
+|   |   |   |       |   |   \---Malta.png
+|   |   |   |       |   +---12
+|   |   |   |       |   |   \---Portugal.png
+|   |   |   |       |   +---14
+|   |   |   |       |   |   \---Italy_navies.jpeg
+|   |   |   |       |   +---15
+|   |   |   |       |   |   \---Cavalry.png
+|   |   |   |       |   +---16
+|   |   |   |       |   |   \---Manchukuo.png
+|   |   |   |       |   +---17
+|   |   |   |       |   |   \---France_National_Focus_Tree.jpeg
+|   |   |   |       |   +---18
+|   |   |   |       |   |   \---Guanxi_Clique.png
+|   |   |   |       |   +---1a
+|   |   |   |       |   |   +---Communist_China.png
+|   |   |   |       |   |   \---Odense_nuclear_bomb_pre-alpha.jpg
+|   |   |   |       |   +---1c
+|   |   |   |       |   |   \---Anti-tank.png
+|   |   |   |       |   +---1d
+|   |   |   |       |   |   +---APP-6_Amphibious.png
+|   |   |   |       |   |   \---Early_mobilization.png
+|   |   |   |       |   +---1e
+|   |   |   |       |   |   \---Palestine.png
+|   |   |   |       |   \---1f
+|   |   |   |       |       +---Guyana.png
+|   |   |   |       |       \---Saudi_Arabia.png
+|   |   |   |       +---2
+|   |   |   |       |   +---24
+|   |   |   |       |   |   \---Republican_Spain.png
+|   |   |   |       |   +---27
+|   |   |   |       |   |   +---Oman.png
+|   |   |   |       |   |   \---Partial_mobilization.png
+|   |   |   |       |   +---28
+|   |   |   |       |   |   \---Haiti.png
+|   |   |   |       |   +---29
+|   |   |   |       |   |   +---United_Kingdom.png
+|   |   |   |       |   |   \---Uruguay.png
+|   |   |   |       |   +---2a
+|   |   |   |       |   |   \---Italy.png
+|   |   |   |       |   +---2c
+|   |   |   |       |   |   \---Nationalist_Spain.png
+|   |   |   |       |   +---2d
+|   |   |   |       |   |   \---Military_police.png
+|   |   |   |       |   \---2f
+|   |   |   |       |       +---British_Raj.png
+|   |   |   |       |       \---Featured.png
+|   |   |   |       +---3
+|   |   |   |       |   +---32
+|   |   |   |       |   |   +---Belgium.png
+|   |   |   |       |   |   +---Netherlands.png
+|   |   |   |       |   |   \---United_States.png
+|   |   |   |       |   +---33
+|   |   |   |       |   |   \---Chromium.png
+|   |   |   |       |   +---34
+|   |   |   |       |   |   \---Total_mobilization.png
+|   |   |   |       |   +---36
+|   |   |   |       |   |   \---Lebanon.png
+|   |   |   |       |   +---37
+|   |   |   |       |   |   \---Egypt.png
+|   |   |   |       |   +---38
+|   |   |   |       |   |   \---Bolivia.png
+|   |   |   |       |   +---3a
+|   |   |   |       |   |   \---Nepal.png
+|   |   |   |       |   +---3b
+|   |   |   |       |   |   +---Philippines.png
+|   |   |   |       |   |   \---Yunnan.png
+|   |   |   |       |   +---3c
+|   |   |   |       |   |   \---France_Maginot_Line.jpeg
+|   |   |   |       |   +---3d
+|   |   |   |       |   |   \---ConcentratedIndustry1.png
+|   |   |   |       |   +---3e
+|   |   |   |       |   |   \---Swiss_wargoal.jpeg
+|   |   |   |       |   \---3f
+|   |   |   |       |       +---Concentrated_industry.png
+|   |   |   |       |       +---Luxembourg.png
+|   |   |   |       |       +---Panama.png
+|   |   |   |       |       \---Peace_conference.jpeg
+|   |   |   |       +---4
+|   |   |   |       |   +---40
+|   |   |   |       |   |   +---Infantry_cropped.png
+|   |   |   |       |   |   \---TurkeyMapScreenshot.jpeg
+|   |   |   |       |   +---41
+|   |   |   |       |   |   \---Basic_machine_tools.png
+|   |   |   |       |   +---43
+|   |   |   |       |   |   \---Australia.png
+|   |   |   |       |   +---4b
+|   |   |   |       |   |   +---Ireland.png
+|   |   |   |       |   |   +---Logistics.png
+|   |   |   |       |   |   \---Unit_preview_tank.jpg
+|   |   |   |       |   \---4c
+|   |   |   |       |       \---Russian_mud.jpeg
+|   |   |   |       +---5
+|   |   |   |       |   +---52
+|   |   |   |       |   |   \---Field_hospital.png
+|   |   |   |       |   +---54
+|   |   |   |       |   |   +---Modern_tank_cropped.png
+|   |   |   |       |   |   \---Tannu_Tuva.png
+|   |   |   |       |   +---55
+|   |   |   |       |   |   +---Civilian_factories.png
+|   |   |   |       |   |   \---Guatemala.png
+|   |   |   |       |   +---57
+|   |   |   |       |   |   \---Paraguay.png
+|   |   |   |       |   +---58
+|   |   |   |       |   |   \---Maintenance_company.png
+|   |   |   |       |   +---59
+|   |   |   |       |   |   \---Medium_tank_cropped.png
+|   |   |   |       |   +---5b
+|   |   |   |       |   |   +---Dominican_Republic.png
+|   |   |   |       |   |   \---Soviet_Union_National_Focus_Tree.jpeg
+|   |   |   |       |   +---5c
+|   |   |   |       |   |   \---El_Salvador.png
+|   |   |   |       |   \---5d
+|   |   |   |       |       \---Venezuela.png
+|   |   |   |       +---6
+|   |   |   |       |   +---63
+|   |   |   |       |   |   \---All_adults_serve.png
+|   |   |   |       |   +---67
+|   |   |   |       |   |   \---Soviet_Union.png
+|   |   |   |       |   +---69
+|   |   |   |       |   |   \---Denmark.png
+|   |   |   |       |   +---6a
+|   |   |   |       |   |   \---Hungary.png
+|   |   |   |       |   +---6c
+|   |   |   |       |   |   \---Cuba.png
+|   |   |   |       |   +---6e
+|   |   |   |       |   |   +---Ambox_warning_pn.png
+|   |   |   |       |   |   \---Xibei_San_Ma.png
+|   |   |   |       |   \---6f
+|   |   |   |       |       \---Estonia.png
+|   |   |   |       +---7
+|   |   |   |       |   +---74
+|   |   |   |       |   |   \---War_screen.png
+|   |   |   |       |   +---7b
+|   |   |   |       |   |   +---Civilian_economy.png
+|   |   |   |       |   |   +---Closed_economy.png
+|   |   |   |       |   |   \---Interwar_artillery.png
+|   |   |   |       |   +---7c
+|   |   |   |       |   |   \---Latvia.png
+|   |   |   |       |   +---7d
+|   |   |   |       |   |   \---Export_focus.png
+|   |   |   |       |   +---7e
+|   |   |   |       |   |   \---Siam.png
+|   |   |   |       |   \---7f
+|   |   |   |       |       \---Austria.png
+|   |   |   |       +---8
+|   |   |   |       |   +---80
+|   |   |   |       |   |   +---APP-6_Wheeled.png
+|   |   |   |       |   |   +---Colombia.png
+|   |   |   |       |   |   \---Super_heavy_tank_cropped.png
+|   |   |   |       |   +---81
+|   |   |   |       |   |   +---China.png
+|   |   |   |       |   |   \---HeartsofIronIV_d-day_landing.jpg
+|   |   |   |       |   +---83
+|   |   |   |       |   |   \---Military_factories.png
+|   |   |   |       |   +---85
+|   |   |   |       |   |   +---Bhutan.png
+|   |   |   |       |   |   \---Indonesia.png
+|   |   |   |       |   +---86
+|   |   |   |       |   |   \---United_States_focus_tree.jpeg
+|   |   |   |       |   +---89
+|   |   |   |       |   |   \---Slovakia.png
+|   |   |   |       |   +---8a
+|   |   |   |       |   |   \---North_Korea.png
+|   |   |   |       |   +---8c
+|   |   |   |       |   |   \---Brazil.png
+|   |   |   |       |   +---8e
+|   |   |   |       |   |   \---Rubber.png
+|   |   |   |       |   \---8f
+|   |   |   |       |       \---Romania.png
+|   |   |   |       +---9
+|   |   |   |       |   +---91
+|   |   |   |       |   |   \---Nicaragua.png
+|   |   |   |       |   +---94
+|   |   |   |       |   |   \---Israel.png
+|   |   |   |       |   +---95
+|   |   |   |       |   |   \---Extensive_conscription.png
+|   |   |   |       |   +---96
+|   |   |   |       |   |   \---General_staff.png
+|   |   |   |       |   +---97
+|   |   |   |       |   |   +---Heavy_tank_cropped.png
+|   |   |   |       |   |   \---Traded_factories.png
+|   |   |   |       |   +---98
+|   |   |   |       |   |   \---Sweden.png
+|   |   |   |       |   +---99
+|   |   |   |       |   |   \---Poland.png
+|   |   |   |       |   +---9b
+|   |   |   |       |   |   \---Germany.png
+|   |   |   |       |   +---9c
+|   |   |   |       |   |   \---South_Korea.png
+|   |   |   |       |   +---9d
+|   |   |   |       |   |   \---Italy_political.jpeg
+|   |   |   |       |   \---9e
+|   |   |   |       |       \---Service_by_requirement.png
+|   |   |   |       +---a
+|   |   |   |       |   +---a1
+|   |   |   |       |   |   \---HOI4_wiki_logo.png
+|   |   |   |       |   +---a2
+|   |   |   |       |   |   \---Argentina.png
+|   |   |   |       |   +---a3
+|   |   |   |       |   |   +---Canada.png
+|   |   |   |       |   |   +---Disarmed_nation.png
+|   |   |   |       |   |   \---Tungsten.png
+|   |   |   |       |   +---a4
+|   |   |   |       |   |   \---Indochina.png
+|   |   |   |       |   +---a7
+|   |   |   |       |   |   \---APP-6_Armored.png
+|   |   |   |       |   +---a8
+|   |   |   |       |   |   \---Peru.png
+|   |   |   |       |   +---a9
+|   |   |   |       |   |   \---UK_tree_Limited_Rearmament.png
+|   |   |   |       |   +---ac
+|   |   |   |       |   |   \---HeartsofIronIV_rommel_desert_fox.jpg
+|   |   |   |       |   +---ad
+|   |   |   |       |   |   \---Mechanized_cropped.png
+|   |   |   |       |   \---ae
+|   |   |   |       |       \---Home_Defense.png
+|   |   |   |       +---archive
+|   |   |   |       |   +---0
+|   |   |   |       |   |   \---0f
+|   |   |   |       |   |       \---20151101083438!Norway.png
+|   |   |   |       |   +---2
+|   |   |   |       |   |   +---24
+|   |   |   |       |   |   |   \---20151104094202!Republican_Spain.png
+|   |   |   |       |   |   +---29
+|   |   |   |       |   |   |   \---20151031085014!United_Kingdom.png
+|   |   |   |       |   |   \---2f
+|   |   |   |       |   |       \---20151103155729!British_Raj.png
+|   |   |   |       |   +---3
+|   |   |   |       |   |   +---32
+|   |   |   |       |   |   |   \---20151103160711!United_States.png
+|   |   |   |       |   |   +---3b
+|   |   |   |       |   |   |   \---20151106150505!Philippines.png
+|   |   |   |       |   |   \---3f
+|   |   |   |       |   |       \---20151104092857!Luxembourg.png
+|   |   |   |       |   +---4
+|   |   |   |       |   |   +---43
+|   |   |   |       |   |   |   +---20151016083907!Australia.png
+|   |   |   |       |   |   |   \---20151101084802!Australia.png
+|   |   |   |       |   |   \---4b
+|   |   |   |       |   |       \---20151101084049!Ireland.png
+|   |   |   |       |   +---5
+|   |   |   |       |   |   +---54
+|   |   |   |       |   |   |   \---20151107185100!Tannu_Tuva.png
+|   |   |   |       |   |   +---5b
+|   |   |   |       |   |   |   +---20151105193743!Dominican_Republic.png
+|   |   |   |       |   |   |   \---20160320225005!Soviet_Union_National_Focus_Tree.jpeg
+|   |   |   |       |   |   \---5c
+|   |   |   |       |   |       \---20151105193838!El_Salvador.png
+|   |   |   |       |   +---6
+|   |   |   |       |   |   +---67
+|   |   |   |       |   |   |   \---20151031084847!Soviet_Union.png
+|   |   |   |       |   |   +---69
+|   |   |   |       |   |   |   \---20151101083315!Denmark.png
+|   |   |   |       |   |   +---6c
+|   |   |   |       |   |   |   \---20151103082044!Cuba.png
+|   |   |   |       |   |   \---6f
+|   |   |   |       |   |       \---20151101083933!Estonia.png
+|   |   |   |       |   +---7
+|   |   |   |       |   |   +---7c
+|   |   |   |       |   |   |   \---20151104093813!Latvia.png
+|   |   |   |       |   |   \---7f
+|   |   |   |       |   |       \---20151104093209!Austria.png
+|   |   |   |       |   +---8
+|   |   |   |       |   |   +---80
+|   |   |   |       |   |   |   +---20141129032939!Colombia.png
+|   |   |   |       |   |   |   +---20141129033037!Colombia.png
+|   |   |   |       |   |   |   +---20141129033133!Colombia.png
+|   |   |   |       |   |   |   +---20141129033343!Colombia.png
+|   |   |   |       |   |   |   +---20141129033418!Colombia.png
+|   |   |   |       |   |   |   +---20141129033714!Colombia.png
+|   |   |   |       |   |   |   +---20141129033801!Colombia.png
+|   |   |   |       |   |   |   +---20141129034036!Colombia.png
+|   |   |   |       |   |   |   +---20141129034055!Colombia.png
+|   |   |   |       |   |   |   \---20141129034440!Colombia.png
+|   |   |   |       |   |   \---81
+|   |   |   |       |   |       \---20151128074304!China.png
+|   |   |   |       |   +---9
+|   |   |   |       |   |   +---98
+|   |   |   |       |   |   |   \---20151103083313!Sweden.png
+|   |   |   |       |   |   +---99
+|   |   |   |       |   |   |   \---20151102112036!Poland.png
+|   |   |   |       |   |   \---9b
+|   |   |   |       |   |       \---20140207155927!Germany.png
+|   |   |   |       |   +---a
+|   |   |   |       |   |   +---a1
+|   |   |   |       |   |   |   +---20140123232202!HOI4_wiki_logo.png
+|   |   |   |       |   |   |   \---20140124165456!HOI4_wiki_logo.png
+|   |   |   |       |   |   +---a2
+|   |   |   |       |   |   |   \---20151105192952!Argentina.png
+|   |   |   |       |   |   \---a3
+|   |   |   |       |   |       \---20151101083749!Canada.png
+|   |   |   |       |   +---c
+|   |   |   |       |   |   +---c0
+|   |   |   |       |   |   |   \---20160320224856!Italy_national_focus_tree.jpeg
+|   |   |   |       |   |   \---c4
+|   |   |   |       |   |       +---20151101084617!Finland.png
+|   |   |   |       |   |       \---20151105192637!Iraq.png
+|   |   |   |       |   +---d
+|   |   |   |       |   |   +---d9
+|   |   |   |       |   |   |   +---20151101083615!New_Zealand.png
+|   |   |   |       |   |   |   \---20151104093635!Lithuania.png
+|   |   |   |       |   |   \---da
+|   |   |   |       |   |       \---20151105192739!Costa_Rica.png
+|   |   |   |       |   \---f
+|   |   |   |       |       +---f3
+|   |   |   |       |       |   \---20151031090821!India.png
+|   |   |   |       |       +---f4
+|   |   |   |       |       |   \---20151102112818!Bulgaria.png
+|   |   |   |       |       \---fa
+|   |   |   |       |           \---20151105192905!Chile.png
+|   |   |   |       +---b
+|   |   |   |       |   +---b2
+|   |   |   |       |   |   +---Ecuador.png
+|   |   |   |       |   |   \---HoI4_early_screenshots.png
+|   |   |   |       |   +---b3
+|   |   |   |       |   |   \---Turkey.png
+|   |   |   |       |   +---b4
+|   |   |   |       |   |   +---Logistics_company.png
+|   |   |   |       |   |   +---Mountain_cropped.png
+|   |   |   |       |   |   +---Scraping_the_barrel.png
+|   |   |   |       |   |   \---Undisturbed_isolation.png
+|   |   |   |       |   +---b5
+|   |   |   |       |   |   \---Russian_snow.jpeg
+|   |   |   |       |   +---b6
+|   |   |   |       |   |   +---HeartsofIronIV_v2_reserach.jpg
+|   |   |   |       |   |   \---Isolation.png
+|   |   |   |       |   +---b8
+|   |   |   |       |   |   \---Sinkiang.png
+|   |   |   |       |   +---b9
+|   |   |   |       |   |   \---Trade_screen.jpeg
+|   |   |   |       |   +---ba
+|   |   |   |       |   |   \---Aluminum.png
+|   |   |   |       |   \---bc
+|   |   |   |       |       \---Mongolia.png
+|   |   |   |       +---c
+|   |   |   |       |   +---c0
+|   |   |   |       |   |   \---Italy_national_focus_tree.jpeg
+|   |   |   |       |   +---c1
+|   |   |   |       |   |   \---Czechoslovakia.png
+|   |   |   |       |   +---c4
+|   |   |   |       |   |   +---Finland.png
+|   |   |   |       |   |   \---Iraq.png
+|   |   |   |       |   +---c5
+|   |   |   |       |   |   \---Recon_cropped.png
+|   |   |   |       |   +---c6
+|   |   |   |       |   |   \---Marine_cropped.png
+|   |   |   |       |   \---c9
+|   |   |   |       |       \---Steel.png
+|   |   |   |       +---d
+|   |   |   |       |   +---d0
+|   |   |   |       |   |   \---Shanxi.png
+|   |   |   |       |   +---d1
+|   |   |   |       |   |   +---APP-6_Blank.png
+|   |   |   |       |   |   +---H3kNus7.jpg
+|   |   |   |       |   |   \---Iran.png
+|   |   |   |       |   +---d7
+|   |   |   |       |   |   \---Basic_decryption.png
+|   |   |   |       |   +---d8
+|   |   |   |       |   |   +---Artillery.png
+|   |   |   |       |   |   \---Greece.png
+|   |   |   |       |   +---d9
+|   |   |   |       |   |   +---HoI4_DD_2_tech_tree.jpg
+|   |   |   |       |   |   +---Lithuania.png
+|   |   |   |       |   |   +---New_Zealand.png
+|   |   |   |       |   |   \---Volunteer_only.png
+|   |   |   |       |   +---da
+|   |   |   |       |   |   \---Costa_Rica.png
+|   |   |   |       |   +---de
+|   |   |   |       |   |   \---France.png
+|   |   |   |       |   \---df
+|   |   |   |       |       \---Motorized_cropped.png
+|   |   |   |       +---e
+|   |   |   |       |   +---e0
+|   |   |   |       |   |   \---United_States_east_coast.jpeg
+|   |   |   |       |   +---e1
+|   |   |   |       |   |   \---Anti-air.png
+|   |   |   |       |   +---e3
+|   |   |   |       |   |   \---Republic_Of_Colombia.png
+|   |   |   |       |   +---e4
+|   |   |   |       |   |   +---Jordan.png
+|   |   |   |       |   |   \---Morocco.png
+|   |   |   |       |   +---e5
+|   |   |   |       |   |   +---Turkey_DiplomacyView.jpg
+|   |   |   |       |   |   \---War_economy.png
+|   |   |   |       |   +---e7
+|   |   |   |       |   |   +---APP-6_Infantry.png
+|   |   |   |       |   |   \---UK_Tree_Reinforce_the_Empire.png
+|   |   |   |       |   +---e8
+|   |   |   |       |   |   \---APP-6_HQ_Support.png
+|   |   |   |       |   +---e9
+|   |   |   |       |   |   +---Atomic_research.png
+|   |   |   |       |   |   \---Democracy.png
+|   |   |   |       |   +---ea
+|   |   |   |       |   |   \---Limited_exports.png
+|   |   |   |       |   +---eb
+|   |   |   |       |   |   \---Paratroop.png
+|   |   |   |       |   +---ec
+|   |   |   |       |   |   \---Vichy_France.png
+|   |   |   |       |   \---ef
+|   |   |   |       |       \---South_Africa.png
+|   |   |   |       \---f
+|   |   |   |           +---f0
+|   |   |   |           |   \---HoI4_DD_1_map.jpg
+|   |   |   |           +---f3
+|   |   |   |           |   +---India.png
+|   |   |   |           |   +---Pakistan.png
+|   |   |   |           |   \---Yugoslavia.png
+|   |   |   |           +---f4
+|   |   |   |           |   +---Bulgaria.png
+|   |   |   |           |   +---Hearts_of_iron_iv_packshot.png
+|   |   |   |           |   \---Light_tank_cropped.png
+|   |   |   |           +---f6
+|   |   |   |           |   \---Russian_storm.jpeg
+|   |   |   |           +---f9
+|   |   |   |           |   \---Free_trade.png
+|   |   |   |           +---fa
+|   |   |   |           |   \---Chile.png
+|   |   |   |           \---fc
+|   |   |   |               +---Generic_national_focus_tree.jpg
+|   |   |   |               +---Japan.png
+|   |   |   |               \---Yemen.png
+|   |   |   +---resources
+|   |   |   |   +---assets
+|   |   |   |   \---src
+|   |   |   |       +---mediawiki
+|   |   |   |       |   \---images
+|   |   |   |       +---mediawiki.action
+|   |   |   |       |   \---images
+|   |   |   |       +---mediawiki.legacy
+|   |   |   |       |   \---images
+|   |   |   |       \---mediawiki.skinning
+|   |   |   |           \---images
+|   |   |   +---skins
+|   |   |   |   \---Vector
+|   |   |   |       \---images
+|   |   |   +---Special%3AContributions
+|   |   |   +---Special%3ALog
+|   |   |   +---Special%3ARecentChangesLinked
+|   |   |   |   \---User%3ASaintDaveUK
+|   |   |   +---Special%3AUndelete
+|   |   |   +---Special%3AWhatLinksHere
+|   |   |   |   +---Template%3AAchievement
+|   |   |   |   +---Template%3AAmbox
+|   |   |   |   +---Template%3AAnchor
+|   |   |   |   +---Template%3ACategory
+|   |   |   |   +---Template%3ACleanup
+|   |   |   |   +---Template%3ACopy_edit
+|   |   |   |   +---Template%3ACountry
+|   |   |   |   +---Template%3ACountry_navbox
+|   |   |   |   +---Template%3ACurrent
+|   |   |   |   +---Template%3ADelete
+|   |   |   |   +---Template%3ADuplicate
+|   |   |   |   +---Template%3AExpand
+|   |   |   |   +---Template%3AGreen
+|   |   |   |   +---Template%3AIcon
+|   |   |   |   +---Template%3AInfobox
+|   |   |   |   +---Template%3AInUse
+|   |   |   |   +---Template%3ALinks
+|   |   |   |   +---Template%3AMerge
+|   |   |   |   +---Template%3AMove
+|   |   |   |   +---Template%3APOV
+|   |   |   |   +---Template%3AProtect
+|   |   |   |   +---Template%3ARed
+|   |   |   |   +---Template%3ARewrite
+|   |   |   |   +---Template%3ASpeedDelete
+|   |   |   |   +---Template%3ASplit
+|   |   |   |   +---Template%3AStub
+|   |   |   |   +---Template%3ATemplate
+|   |   |   |   +---Template%3ATemplate_doc_page_transcluded
+|   |   |   |   +---Template%3AUnder_construction
+|   |   |   |   +---Template%3AUnique_national_idea_bonus_list
+|   |   |   |   +---Template%3AUnique_national_idea_bonus_table
+|   |   |   |   +---Template%3AUnsigned
+|   |   |   |   +---Template%3AUpdate
+|   |   |   |   +---Template%3AUserInfo
+|   |   |   |   +---Template%3AVersion
+|   |   |   |   +---Template%3AWikify
+|   |   |   |   \---User%3AGeneral_Baker
+|   |   |   |       \---Sandbox
+|   |   |   |           \---app6a
+|   |   |   +---Template%3AAchievement
+|   |   |   +---Template%3AAmbox
+|   |   |   +---Template%3AAnchor
+|   |   |   +---Template%3ACategory
+|   |   |   +---Template%3ACleanup
+|   |   |   +---Template%3ACopy_edit
+|   |   |   +---Template%3ACountry
+|   |   |   +---Template%3ACountry_navbox
+|   |   |   +---Template%3ACurrent
+|   |   |   +---Template%3ADelete
+|   |   |   +---Template%3ADuplicate
+|   |   |   +---Template%3AExpand
+|   |   |   +---Template%3AGreen
+|   |   |   +---Template%3AIcon
+|   |   |   +---Template%3AInfobox
+|   |   |   +---Template%3AInUse
+|   |   |   +---Template%3ALinks
+|   |   |   +---Template%3AMerge
+|   |   |   +---Template%3AMove
+|   |   |   +---Template%3APOV
+|   |   |   +---Template%3AProtect
+|   |   |   +---Template%3ARed
+|   |   |   +---Template%3ARewrite
+|   |   |   +---Template%3ASpeedDelete
+|   |   |   +---Template%3ASplit
+|   |   |   +---Template%3AStub
+|   |   |   +---Template%3ATemplate
+|   |   |   +---Template%3ATemplate_doc_page_transcluded
+|   |   |   +---Template%3AUnder_construction
+|   |   |   +---Template%3AUnique_national_idea_bonus_list
+|   |   |   +---Template%3AUnique_national_idea_bonus_table
+|   |   |   +---Template%3AUnsigned
+|   |   |   +---Template%3AUpdate
+|   |   |   +---Template%3AUserInfo
+|   |   |   +---Template%3AVersion
+|   |   |   +---Template%3AWikify
+|   |   |   +---User%3AGeneral_Baker
+|   |   |   |   \---Sandbox
+|   |   |   |       \---app6a
+|   |   |   \---User%3ASaintDaveUK
+|   |   \---_CommonRedist
+|   |       +---DirectX
+|   |       |   \---Jun2010
+|   |       \---vcredist
+|   |           \---2010
+|   +---Nexus Mod Manager
+|   |   \---Oblivion
+|   |       +---Install Info
+|   |       |   \---overwrites
+|   |       \---VirtualInstall
+|   |           +---1000007063
+|   |           |   +---Meshes
+|   |           |   |   \---characters
+|   |           |   |       +---argonian
+|   |           |   |       +---darkelf
+|   |           |   |       +---highelf
+|   |           |   |       +---imperial
+|   |           |   |       +---khajiit
+|   |           |   |       +---nuska
+|   |           |   |       |   +---breton
+|   |           |   |       |   +---darkelf
+|   |           |   |       |   +---eyelashes
+|   |           |   |       |   +---hair
+|   |           |   |       |   +---highelf
+|   |           |   |       |   +---nord
+|   |           |   |       |   +---orc
+|   |           |   |       |   +---redguard
+|   |           |   |       |   \---woodelf
+|   |           |   |       +---orc
+|   |           |   |       +---woodelf
+|   |           |   |       \---_male
+|   |           |   \---Textures
+|   |           |       +---characters
+|   |           |       |   +---darkelf
+|   |           |       |   |   +---female
+|   |           |       |   |   \---male
+|   |           |       |   +---DarkSeducer
+|   |           |       |   |   +---Female
+|   |           |       |   |   \---male
+|   |           |       |   +---dremora
+|   |           |       |   |   +---female
+|   |           |       |   |   \---male
+|   |           |       |   +---eyes
+|   |           |       |   +---GoldenSaint
+|   |           |       |   |   +---Female
+|   |           |       |   |   \---male
+|   |           |       |   +---imperial
+|   |           |       |   |   +---female
+|   |           |       |   |   \---male
+|   |           |       |   +---khajiit
+|   |           |       |   |   \---female
+|   |           |       |   +---nuska
+|   |           |       |   |   +---argonian
+|   |           |       |   |   +---darkelf
+|   |           |       |   |   +---darkseducer
+|   |           |       |   |   +---dremora
+|   |           |       |   |   +---eyelashes
+|   |           |       |   |   +---goldensaint
+|   |           |       |   |   +---hair
+|   |           |       |   |   +---highelf
+|   |           |       |   |   +---khajiit
+|   |           |       |   |   +---nord
+|   |           |       |   |   +---orc
+|   |           |       |   |   +---redguard
+|   |           |       |   |   \---woodelf
+|   |           |       |   +---orc
+|   |           |       |   |   +---female
+|   |           |       |   |   \---male
+|   |           |       |   \---redguard
+|   |           |       |       +---female
+|   |           |       |       \---male
+|   |           |       \---Faces
+|   |           |           \---Oblivion.esm

@@ -1,0 +1,31 @@
+2,1
+6,4
+3,4
+8,8
+6,3
+3,8
+6,9
+4,2
+5,6
+11,12
+
+Input:2,1
+ Add: 3 Subtract: 1 Multiply:2 Divide:2
+Input:6,4
+ Add: 10 Subtract: 2 Multiply:24 Divide:1
+Input:3,4
+ Add: 7 Subtract: -1 Multiply:12 Divide:0
+Input:8,8
+ Add: 16 Subtract: 0 Multiply:64 Divide:1
+Input:6,3
+ Add: 9 Subtract: 3 Multiply:18 Divide:2
+Input:3,8
+ Add: 11 Subtract: -5 Multiply:24 Divide:0
+Input:6,9
+ Add: 15 Subtract: -3 Multiply:54 Divide:0
+Input:4,2
+ Add: 6 Subtract: 2 Multiply:8 Divide:2
+Input:5,6
+ Add: 11 Subtract: -1 Multiply:30 Divide:0
+Input:11,12
+ Add: 23 Subtract: -1 Multiply:132 Divide:0
